@@ -14,6 +14,6 @@ Group powered by Prof. Jun Cheng from College of Chemistry and Chemical Engineer
 
 ## Join Us 👋
 
-Please submit your profile to [here](https://cheng-group.net/join)! Welcome your submission.
+Please submit your profile to [here](https://www.cheng-group.net/zh/join-us)! Welcome your submission.
 
-Also, welcome to submit your profile to [AI4EC](https://ai4ec.ikkem.com/join-us/).
+Also, welcome to submit your profile to [AI4EC](https://ai4ec.ac.cn/zh/recruitment).
